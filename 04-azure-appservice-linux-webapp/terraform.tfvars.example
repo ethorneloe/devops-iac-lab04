@@ -1,0 +1,5 @@
+project_name            = "tf-appservice-demo"
+location                = "australiasoutheast"
+environment             = "dev"
+appservice_plan_sku     = "B1"
+appservice_runtime_stack = "NODE:20-lts"
